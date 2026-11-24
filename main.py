@@ -9,6 +9,8 @@ for when a machine answers back: warm, baffled, a little suspicious
 of the magic, and funny without any caption.
 """
 
+# Revision note: re-read the gate after running; the word is one word,
+# 10 characters, no trailing newline.
 import os
 
 TEXT = "Witchcraft"
